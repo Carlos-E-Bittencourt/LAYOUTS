@@ -1,0 +1,28 @@
+.azul{
+    background-color: blue;
+    padding: 50px;
+    width: 430px;
+}
+.amarela{
+    background-color: yellow;
+    padding: 50px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
+}
+.inv{
+    width: 420px;
+}
+.long{
+    padding-bottom: 180px;
+}
+.right{
+    padding-right: 190px;
+}
+#ama1{
+    width: 33%;
+}
+#ama2{
+    width: 280px;
+}
